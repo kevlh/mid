@@ -6,7 +6,7 @@
         id        = "com.phonegap.MyNtutNewApp_101360324"
         version   = "1.0.0">
 
-    <name>My First App</name>
+    <name>midterm</name>
 
     <description>
         My First App sample application that responds to the deviceready event.
